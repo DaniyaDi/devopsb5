@@ -1,0 +1,14 @@
+Keyboard Shortcuts (ctrl = command for windows)
+
+Copy: Command + C
+Paste: Command + V
+
+Select All : Command + A (press at the same time)
+
+CUT: Command + X
+REVERT BACK: Command + Z
+
+New : Command + N 
+
+Screenshot Shortcuts: Command + shift + 4
+for Windows: Windows + shift + S
