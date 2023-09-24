@@ -17,3 +17,5 @@ Listing All Global Configuration Settings
 git config --global --list
 Seeing Git's User-based Config file
 cat ~/.gitconfig
+
+.
