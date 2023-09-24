@@ -78,7 +78,7 @@ their github account when using HTTPS protocol.
 
 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
 
-https://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:github.com/DaniyaDi/devopsb5.git
+https://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@github.com/DaniyaDi/devopsb5.git
 
 
 
