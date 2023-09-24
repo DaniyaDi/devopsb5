@@ -8,7 +8,7 @@ updates or deletes.
 
 Local:
 This refers to version of your project that is in your personal laptop.
-When you make changes here, they're not immediately available to anyone else.
+When you make changes here, they are not immediately available to anyone else.
 Changes need to be committed and pushed a remote Repository first.
 
 Staging Environment:
