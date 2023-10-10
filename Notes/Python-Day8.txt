@@ -1,0 +1,25 @@
+upper()
+* It is going to convert all letters in string to an upper case.
+* original value of the string will not change.
+lower()
+* It is going to convert all letters in string to a lower case.
+capitalize()
+* Converting all letters in lowercase and converting firts letter to Upper Case.
+swapcase()
+* Convert all letters in reverse cases.
+
+# What is the return type of these methods?
+# All these methods will generate a new copy of the string.
+```py
+s = "pythoN"
+print(type(capitalize))
+
+
+
+
+
+
+
+
+
+

@@ -12,7 +12,7 @@ num_2 = int(input("Enter number of dimes:"))
 num_3 = int(input("Enter number of nickels:"))
 num_4 = int(input("Enter number of pennies:"))
 
-print("The total amount in dollars is $", quarterts * num_1 + dimes * num_2 + nickels * num_3 + pennies * num_4)
+#print("The total amount in dollars is $", round(quarterts * num_1 + dimes * num_2 + nickels * num_3 + pennies * num_4,2))
 # The total amount in dollars is $ 1.8199999999999998 
 # so below i decided to * to 100
 

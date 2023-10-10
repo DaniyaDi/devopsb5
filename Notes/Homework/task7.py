@@ -6,12 +6,11 @@
 
 num_minutes = 3456789
 
-one_hour = 60
-one_day = 60 * 24
+one_hour, one_day = 60, 60 * 24
 one_year = one_day * 365
 
 year_count = num_minutes // one_year
-remaining = num_minutes - year_count * one_year
+remaining = num_minutes % one_year
 day_count = remaining // one_day
 
-print("3456789 minutes is approxiamately", year_count, "years and", day_count, "days")
+print("3456789 minutes is approxiamately", year_count, "years and", day_count, )
